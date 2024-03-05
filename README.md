@@ -6,6 +6,6 @@
 <p align="center"> <strong>Algoritmos e Programação II.</strong></p>
 
 <p align="center">Projeto desenvolvido em C#, utilizando conceito de abstração, funções e classes. </p>
-<p align="center">Objetivo: realizar o controle, entrada e saída de produtos do estoque.</p>
+<p align="center">Objetivo: realizar o controle, entrada e saída de produtos.</p>
 
 </center>
