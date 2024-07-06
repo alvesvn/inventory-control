@@ -1,7 +1,7 @@
 <h1 align="center">Inventory-control📝</h1>
 
 <p align="center">Projeto desenvolvido durante a graduação pelo <b>@senacsaopaulo - curso: sistemas para internet.</b></p>
-<p align="center">Este projeto implementa um sistema simples de controle de estoque para uma loja de jogos, desenvolvido em C#. Ele permite adicionar novos jogos, listar os produtos disponíveis, remover jogos do estoque, registrar entradas e saídas de estoque para cada jogo. Desenvolvido como parte de um projeto de estudo/prática do curso de graduação na disciplina de algoritmos e programação II. </p>
+<p align="justify">Este projeto implementa um sistema simples de controle de estoque para uma loja de jogos, desenvolvido em C#. Ele permite adicionar novos jogos, listar os produtos disponíveis, remover jogos do estoque, registrar entradas e saídas de estoque para cada jogo. Desenvolvido como parte de um projeto de estudo/prática do curso de graduação na disciplina de algoritmos e programação II. </p>
 
 
 
