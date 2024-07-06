@@ -30,18 +30,18 @@ O projeto está estruturado da seguinte forma:
 
 ## How to use
 
-1. <strong>Clone o Repositório:</strong>
+<strong>1. Clone o Repositório:</strong>
 ```bash
 git clone https://github.com/alvesvn/inventory-control.git
 ```
 
-2. <strong>Execute o Programa:</strong>
+<strong>2. Execute o Programa:</strong>
 - Abra o projeto em seu ambiente de desenvolvimento (Visual Studio, VS Code, etc.).
 - Compile e execute o programa.
 
-3. <strong>Interaja com o Menu:</strong>
+<strong>3. Interaja com o Menu:</strong>
 - Siga as opções apresentadas no console para adicionar, listar, remover, ou gerenciar o estoque de jogos.
 
  ## Contribution
 
-Contribuições são bem-vindas! 
+Contribuições são bem-vindas! ✨
